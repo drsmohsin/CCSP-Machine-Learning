@@ -1,2 +1,2 @@
 # CCSP-Buffalo
-Shows predicted CCS foe InChi input
+Shows predicted CCS for InChi input
